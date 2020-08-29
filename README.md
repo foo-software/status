@@ -4,6 +4,8 @@ This is a space to promote collaboration of [www.foo.software](www.foo.software)
 
 - **[General discussion](https://github.com/foo-software/discussion/issues)**: Anything goes here. Not sure where to discuss a topic... this is the place.
 - **[Incidents](https://github.com/foo-software/incidents/issues)**: Real-time updates of any incidents. We pride ourselves in highly available services, but in the event of user-impacting issues, we'll post them here.
+  - [Open incidents](https://github.com/foo-software/incidents/issues)
+  - [Closed incidents](https://github.com/foo-software/incidents/issues?q=is%3Aissue+is%3Aclosed)
 - **[Bugs](https://github.com/foo-software/bugs/issues)**: Did you discover a bug? Open an issue here or review existing ones.
 - **[Features](https://github.com/foo-software/features/issues)**: Have an idea that would really help your workflow? It doesn't hurt to put in a request. We open any ideas, even half-baked.
 
