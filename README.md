@@ -1,6 +1,6 @@
 # Foo: Status
 
-This is a space to promote collaboration of [www.foo.software](www.foo.software) and related services, to ensure we're transparent regarding bugs, features, incidents and general discussion. We appreciate open communication and continuous feedback. Below are links for the various forums.
+This is a space to promote collaboration of [www.foo.software](www.foo.software) and related services, to ensure we're transparent regarding bugs, features, incidents and general discussion. We appreciate open communication and continuous feedback.
 
 - **[General discussion](https://github.com/foo-software/discussion/issues)**: Anything goes here. Not sure where to discuss a topic... this is the place.
 - **[Incidents](https://github.com/foo-software/incidents/issues)**: Real-time updates of any incidents. We pride ourselves in highly available services, but in the event of user-impacting issues, we'll post them here.
